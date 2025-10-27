@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H1oef-Visietkaartje", "H1oef-Visietkaartje\H1oef-Visietkaartje.csproj", "{60D07B7E-A592-44DD-B621-30F67490BC98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60D07B7E-A592-44DD-B621-30F67490BC98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60D07B7E-A592-44DD-B621-30F67490BC98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60D07B7E-A592-44DD-B621-30F67490BC98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60D07B7E-A592-44DD-B621-30F67490BC98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B6D701B-63EA-451A-B681-56C7E5916C67}
+	EndGlobalSection
+EndGlobal

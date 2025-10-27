@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Bib_Ismail_Khizirov.Book" Collapsed="true">
+    <Position X="3.25" Y="1.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Bib_Ismail_Khizirov.Book.Genre" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Book.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="Bib_Ismail_Khizirov.Book.Languages" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Book.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAACSQAABkoEjAAFAIgAABAAAAAQAAACMIAAAiA=</HashCode>
+      <FileName>Book.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Bib_Ismail_Khizirov.Library" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAQBAAAACCAIAQAAAA4QAQAAgAEEAAAAQg=</HashCode>
+      <FileName>Library.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bib_Ismail_Khizirov.InvalidBookDataException" Collapsed="true">
+    <Position X="8.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LibraryExceptions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bib_Ismail_Khizirov.BookNotAvailableException" Collapsed="true">
+    <Position X="6.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LibraryExceptions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bib_Ismail_Khizirov.Magazine" Collapsed="true">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAABBAAAAAAEAAAAAAACAAQAAAAEAAAAAAAACAA=</HashCode>
+      <FileName>Magazine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bib_Ismail_Khizirov.NewsPaper" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAABAAAAAAAEABAAAAAAAAAAAAAAAAAAAAACCAA=</HashCode>
+      <FileName>NewsPaper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bib_Ismail_Khizirov.Program" Collapsed="true">
+    <Position X="3.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgIAAAAAAAAAAAAQAAAAAAAACAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bib_Ismail_Khizirov.ReadingRoomItem" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAEAECAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>ReadingRoomItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Bib_Ismail_Khizirov.ILendable" Collapsed="true">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAIAAAAEAAAAAAAAAAAAAAAAEIAAAAA=</HashCode>
+      <FileName>ILendable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

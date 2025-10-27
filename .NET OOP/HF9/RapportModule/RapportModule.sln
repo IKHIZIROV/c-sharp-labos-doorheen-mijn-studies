@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RapportModule", "RapportModule\RapportModule.csproj", "{244D0CAC-BE58-4F46-A0E7-19AC333E760D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{244D0CAC-BE58-4F46-A0E7-19AC333E760D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{244D0CAC-BE58-4F46-A0E7-19AC333E760D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{244D0CAC-BE58-4F46-A0E7-19AC333E760D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{244D0CAC-BE58-4F46-A0E7-19AC333E760D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E40CB70D-E33B-4AE9-A315-8998DDB9E3E5}
+	EndGlobalSection
+EndGlobal

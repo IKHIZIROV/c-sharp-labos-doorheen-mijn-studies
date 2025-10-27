@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="allessamen._1.Vorm" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>Vorm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="allessamen._1.Vliegtuig" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAgAAAAAAAAAAAAAAACAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Vliegtuig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="allessamen._1.Rechthoek" Collapsed="true">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAACAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Rechthoek.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="allessamen._1.Lijn" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Lijn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

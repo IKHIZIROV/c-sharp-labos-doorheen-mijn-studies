@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OOP2_Khizirov_Ismail.CD" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CD.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OOP2_Khizirov_Ismail.DVD" Collapsed="true">
+    <Position X="8.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>DVD.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OOP2_Khizirov_Ismail.MuziekItem" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAIAAAAEAAAAJAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>MuziekItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP2_Khizirov_Ismail.Sample" Collapsed="true">
+    <Position X="5.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP2_Khizirov_Ismail.MP3" Collapsed="true">
+    <Position X="0.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MP3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP2_Khizirov_Ismail.MuziekDB" Collapsed="true">
+    <Position X="10" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BABAAAEAAAAgAAAAAAAAABAAgIAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>MuziekDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="OOP2_Khizirov_Ismail.IFysiek" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IFysiek.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="OOP2_Khizirov_Ismail.MP3formaat" Collapsed="true">
+    <Position X="0.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAEgAA=</HashCode>
+      <FileName>MP3.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
